@@ -8,4 +8,4 @@ H:\Sheikhnezami\Learning\ASP.net Core 2\Session 7\Proxy-Cache\obj\Debug\netcorea
 H:\Sheikhnezami\Learning\ASP.net Core 2\Session 7\Proxy-Cache\bin\Debug\netcoreapp2.0\Session07.Exam.pdb
 H:\Sheikhnezami\Learning\ASP.net Core 2\Session 7\Proxy-Cache\obj\Debug\netcoreapp2.0\Session07.Exam.dll
 H:\Sheikhnezami\Learning\ASP.net Core 2\Session 7\Proxy-Cache\obj\Debug\netcoreapp2.0\Session07.Exam.pdb
-H:\Sheikhnezami\Learning\ASP.net Core 2\Session 7\Proxy-Cache\obj\Debug\netcoreapp2.0\Session07.Exam.csprojResolveAssemblyReference.cache
+H:\Sheikhnezami\Learning\ASP.net Core 2\Session 7\Proxy-Cache\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
