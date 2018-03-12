@@ -30,7 +30,7 @@ namespace Session07.Exam
             services.AddDbContext<PersonContext>(options => options.UseSqlServer(connection));
 
             var CacheEnably = configurationSection.Where(c => c.Key == "Enabled").ToList().FirstOrDefault().Value;
-            services.AddSingleton<IPersonRepository>(provider =>
+            services.AddTransient<IPersonRepository>(provider =>
             {
                 var PersonContext = new PersonContext(new DbContextOptions<PersonContext>());
                 if (CacheEnably == "1")
